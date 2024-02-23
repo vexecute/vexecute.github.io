@@ -66,6 +66,7 @@ jobs:
           path: ./public
 
   # Deployment job
+  # Workflow
   deploy:
     environment:
       name: github-pages
